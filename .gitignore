@@ -27,9 +27,12 @@ npm-debug.log*
 .idea/
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 node_modules/
 dist/
 .env
 .env.local
 .vscode/
 .vs/
+=======
+>>>>>>> 833b8783810097aade0e42cf73edebbfde990457
