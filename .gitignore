@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+server/node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Local env files
+.env
+.env.local
+server/.env
+
+# Database (local data)
+server/*.json
+!server/package.json
+!server/package-lock.json
+server/*.db
+server/*.db-journal
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+.env
+.env.local
+.vscode/
+.vs/
